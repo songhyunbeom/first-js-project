@@ -47,15 +47,24 @@ button{
 }
 
 .js-temp{
+    position: absolute;
     font-weight: 500;
     font-size: 22px;
-    padding-left: 90%;
+    top: 8%;
+    left: 90%;
+/*padding-left: 90%;**/
 }
 
 .js-place{
+    position: absolute;
     font-weight: 500;
     font-size: 22px;
-    padding-left: 95%;
+    top: 10%;
+    left: 90%;
+    /*
+    font-weight: 500;
+    font-size: 22px;
+    padding-left: 95%;*/*
 }
 
 .username{
